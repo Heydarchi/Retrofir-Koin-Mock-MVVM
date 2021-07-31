@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin sample project</string>
+    <string name="title_now">Now</string>
+    <string name="title_hourly">Hourly</string>
+    <string name="title_daily">Daily</string>
+
+    <string name="api_key">74543a7f5e4cdfed896de3c8377918b1</string>
+
+</resources>
